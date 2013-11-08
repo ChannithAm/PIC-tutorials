@@ -1,0 +1,11 @@
+__stringtab: STRING, 133 0 1
+__stringdata: STRING, 134 0 16
+_ISR: CODE, 4 0 44
+_main: CODE, 114 0 19
+__initialization: CODE, 50 0 14
+i1_USART_putc: CODE, 173 0 7
+i1_USART_puts: CODE, 91 0 23
+_USART_putc: CODE, 166 0 7
+_USART_puts: CODE, 67 0 24
+_USART_init: CODE, 150 0 16
+Total: 171
